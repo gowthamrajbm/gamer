@@ -1,2 +1,0 @@
-# gamer
-Created with CodeSandbox
